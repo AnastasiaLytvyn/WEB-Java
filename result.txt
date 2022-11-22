@@ -1,0 +1,4 @@
+Sum = 0.2 Path: "C:\Study\5sem\Java\Test folder\test.txt"
+Sum = 0.1 Path: "C:\Study\5sem\Java\Test folder\fold\ttt\0.1.txt"
+Sum = 0.4 Path: "C:\Study\5sem\Java\Test folder\fold\ttt\test.txt"
+Sum = 1.0 Path: "C:\Study\5sem\Java\Test folder\fold\text.txt"
